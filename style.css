@@ -1,0 +1,26 @@
+html,body{height: 100%;
+   
+      background-color: rgb(63, 61, 61);
+      text-align: center;
+
+    }
+
+    .Contenedor1 {
+        background-color: white;
+        
+    }
+    .Contenedor2
+     {
+        text-align: center;        
+    }
+
+    .Contenedor3
+    {
+        background-color: white;
+        text-align: center;
+    }
+
+    .Contenedor4
+    {
+        text-align: center;
+    }
